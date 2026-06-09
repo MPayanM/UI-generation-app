@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm:*)",
+      "Bash(npx:*)",
+      "Bash(sqlite3:*)",
+      "Bash(git:*)"
+    ],
+    "deny": []
+  }
+}
